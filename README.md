@@ -1,5 +1,10 @@
-# Miscellaneous Projects and Adventures
+# LFR Maze Mapper bot
+- Used for Robo X : Maze Mapping Challenge with LFR bot.
 
-- **Arduino**: LFR bot code for a **Maze Mapping Challenge** held at MAIT, New Delhi.
-- **DeepLearning**: Training MNIST Dataset using Keras Library over TensorFlow. Trained a CNN model with **over 98% accuracy**.
-- **IRCBot**: IRC Bot Reimplementation of `batul`, **the [DGPLUG](http://foss.training) Summer Training** sessions moderator bot
+- An LFR bot code for a **Maze Mapping Challenge** held at MAIT, New Delhi.
+
+- Simple maze traversal on a white surface with black lines
+
+
+## Design for the LFR bot
+![COLOR MAZE BOT DESIGN PROPOSAL](COLOUR%20MAZE%20PROPOSAL.jpg)
